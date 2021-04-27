@@ -10,6 +10,10 @@ This project was based on https://github.com/emmanuelhashy/amazon-clone.
 
  `yarn start` to start the application locally.
 
-## Tests
+## Tests 
 
  `yarn test` to run the tests in headless mode.
+ 
+ ## Starting the Cypress
+
+ `yarn cypress:open` to start the cypress interactive.
